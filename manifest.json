@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "description": "간단하게 색상 코드 가져오기",
   "action": {
-    "default_popup": "뷰.html"
+    "default_popup": "index.html"
   },
   "icons": {
     "16": "icons/icon16.png",
