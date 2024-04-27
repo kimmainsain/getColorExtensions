@@ -20,7 +20,7 @@
 
 ## 패치
 
-### 파일명을 한글로하면 chrome Extention 인식을 안되는 오류가 있었다. (version 1.0.2)
+### 파일명을 한글로하면 chrome Extention 인식 안되는 오류가 있었다. (version 1.0.2)
 
 ## 참고
 
