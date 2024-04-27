@@ -7,11 +7,11 @@
     "default_popup": "뷰.html"
   },
   "icons": {
-    "16": "아이콘폴더/아이콘16.png",
-    "24": "아이콘폴더/아이콘24.png",
-    "32": "아이콘폴더/아이콘32.png",
-    "48": "아이콘폴더/아이콘48.png",
-    "64": "아이콘폴더/아이콘64.png",
-    "128": "아이콘폴더/아이콘128.png"
+    "16": "icons/icon16.png",
+    "24": "icons/icon24.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "64": "icons/icon64.png",
+    "128": "icons/icon128.png"
   }
 }
