@@ -8,8 +8,6 @@
 
 ![image](./image.png)
 
-## 개발
-
 ### 한글로 Vanlilla JS를 개발하면 어떨까?
 
 ## 후기
@@ -20,7 +18,7 @@
 
 ## 패치
 
-### 파일명을 한글로하면 chrome Extention 인식 안되는 오류가 있었다. (version 1.0.2)
+### 파일명을 한글로하면 chrome extension 인식 안되는 오류가 있었다. (version 1.0.2)
 
 ## 참고
 
