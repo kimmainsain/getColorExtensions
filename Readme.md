@@ -6,20 +6,6 @@
 
 ## 사진
 
-<style>
-  .image-table img {
-    width: 300px;
-    height: auto;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    margin: 10px;
-  }
-  .image-table {
-    width: 100%;
-    text-align: center;
-  }
-</style>
 
 <table class="image-table">
   <tr>
