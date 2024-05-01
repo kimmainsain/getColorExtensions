@@ -51,6 +51,7 @@
   height: 30px;
   border-radius: 50%;
   background-color: black;
+  border-width: 1px;
 }
 
 #선택된색상텍스트 {
@@ -59,4 +60,38 @@
   font-size: 1rem;
   font-weight: 200;
   margin-left: 10px;
+}
+
+.로컬스토리지-컨테이너 {
+  display: flex;
+  flex-direction: column;
+  margin : 10px
+}
+
+.로컬스토리지-헤더 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.로컬스토리지-색상카드컨테이너 {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  background-color: #f8f8f8;
+  border-radius: 8px;
+}
+
+.로컬스토리지-색상박스 {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.로컬스토리지-색상텍스트 {
+  font-size: 1rem;
+  font-weight: 200;
 }
