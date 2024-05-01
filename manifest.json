@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "getColor",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "간단하게 색상 코드 가져오기",
   "action": {
     "default_popup": "index.html"
